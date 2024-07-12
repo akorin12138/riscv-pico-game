@@ -305,6 +305,7 @@ module picosoc (
             .SPEED   (SPEED ),
             .LIGHT   (LIGHT ),
             .RZ_data    (RZ_data)
+            
     );
     //------------------------------SOUND----------------------------------------------------------
     wire [6:0] sound;
