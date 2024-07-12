@@ -1,0 +1,335 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/project/FPGAPango/hdmi/v1.0/project/sim/behav
+T_opt
+!s110 1699105577
+VI@LNZMk4LPTjiC@2on<SK1
+04 8 4 work picorv32 fast 0
+=1-04bf1b65e3c4-65464b29-322-24d4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+vgpio
+Z1 !s110 1699105532
+!i10b 1
+!s100 gJjnjPQB>R@2oY^1h4;zf3
+IhLWV_EPM[]Lf5_IbR9XS<0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1559295420
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/gpio.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/gpio.v
+L0 1
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+Z5 !s108 1699105532.846000
+Z6 !s107 E:/project/FPGAPango/hdmi/user/sim/top_tb.v|E:/project/FPGAPango/hdmi/v1.0/ipcore/pll/pll.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/ps2.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/simpleuart.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/picosoc.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/sync_vg.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/pattern_vg.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms72xx_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7210_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7200_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/iic_dri.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/hdmi_test.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/gpio.v|E:/project/FPGAPango/hdmi/v1.0/src/picorv32.v|
+Z7 !s90 -reportprogress|300|-work|work|E:/project/FPGAPango/hdmi/v1.0/src/picorv32.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/gpio.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/hdmi_test.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/iic_dri.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7200_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7210_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms72xx_ctl.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/pattern_vg.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/sync_vg.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/picosoc.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/simpleuart.v|E:/project/FPGAPango/hdmi/v1.0/src/picosoc/ps2.v|E:/project/FPGAPango/hdmi/v1.0/ipcore/pll/pll.v|E:/project/FPGAPango/hdmi/user/sim/top_tb.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+viic_dri
+R1
+!i10b 1
+!s100 =W?z_J?8@z>X:C?G;5AhE1
+I:B0Gjea>42?3<Jl>KhVn[2
+R2
+R0
+w1676639665
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/iic_dri.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/iic_dri.v
+L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vms7200_ctl
+R1
+!i10b 1
+!s100 iKo1Z0cH:JJ?U>SS=@1Qn2
+IXo6jaBOPVoE52m]EQfjzN0
+R2
+R0
+Z9 w1676639664
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7200_ctl.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7200_ctl.v
+Z10 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vms7210_ctl
+R1
+!i10b 1
+!s100 3i5eYm:V@LE2=JU1[>K:V0
+IOom`l7c7omhF<bkC0hHdQ2
+R2
+R0
+R9
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7210_ctl.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms7210_ctl.v
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vms72xx_ctl
+R1
+!i10b 1
+!s100 VaoO?Dfmz0Znod8@VXMSf1
+I`PQJ3zl@clb?_akIl]7KZ2
+R2
+R0
+R9
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms72xx_ctl.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/ms72xx_ctl.v
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vpattern_vg
+R1
+!i10b 1
+!s100 acR8@ge4GODbP8kAQ>ZX90
+Im8om3_chIG0YIJn<_CnB03
+R2
+R0
+w1698922417
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/pattern_vg.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/pattern_vg.v
+L0 32
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vpicorv32
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 i:FNBj?foa^TXE`fYB0Q63
+I<h>XjCL:?SA_Z2kUKd9Ui3
+R0
+R3
+Z11 8E:/project/FPGAPango/hdmi/v1.0/src/picorv32.v
+Z12 FE:/project/FPGAPango/hdmi/v1.0/src/picorv32.v
+L0 57
+R4
+R5
+R6
+R7
+!i113 0
+R8
+vpicorv32_pcpi_div
+R1
+!i10b 1
+!s100 <jeF4^I9:6J5o@fHZUgmb2
+IOiza0=7TLk4KEajfa2:DG2
+R2
+R0
+R3
+R11
+R12
+L0 2349
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vpicorv32_pcpi_fast_mul
+R1
+!i10b 1
+!s100 njNnKPm8Lk<e=VPb?J0]41
+I@U6h3Eh5>;jLSbO;7X6T=3
+R2
+R0
+R3
+R11
+R12
+L0 2247
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vpicorv32_pcpi_mul
+R1
+!i10b 1
+!s100 8B^[YDnUbT7eFPBdUb7Rk0
+I0<KY_Im7]lnBX:R1n6nW13
+R2
+R0
+R3
+R11
+R12
+L0 2126
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vpicorv32_regs
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 M@kG1B94]^PcVSS[O^zoN1
+IDXSdVn<1=NYEU<OESf`eA2
+R0
+R3
+R11
+R12
+L0 2103
+R4
+R5
+R6
+R7
+!i113 0
+R8
+vpll
+R1
+!i10b 1
+!s100 WP>oO:W1=FA0_fjmB9K@Z1
+IB]leb^_=3B8CRCi91TmlN0
+R2
+R0
+w1698727081
+8E:/project/FPGAPango/hdmi/v1.0/ipcore/pll/pll.v
+FE:/project/FPGAPango/hdmi/v1.0/ipcore/pll/pll.v
+L0 18
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vsimpleuart
+R1
+!i10b 1
+!s100 0ahS9mFz3Oi;cAX:KLM@13
+IAQl0Ig3B=IdCgb0OzCk@G0
+R2
+R0
+R3
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/simpleuart.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/simpleuart.v
+L0 20
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vspi_control
+R1
+!i10b 1
+!s100 XRaMK;I1i@hlDY:[aiIBg1
+IkGk2bkQIUCSU2=N4Xacjd2
+R2
+R0
+w1698910787
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/ps2.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/ps2.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vsync_vg
+R1
+!i10b 1
+!s100 Hkdb0o5hO]Slk1Ko7X]9h3
+I9KP2`[j1ec;4?YGLXWXHO1
+R2
+R0
+w1698514831
+8E:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/sync_vg.v
+FE:/project/FPGAPango/hdmi/v1.0/src/picosoc/hdmi/sync_vg.v
+L0 34
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vtop_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 @B^=EK<^Hc6BC]:WT_A1W0
+Ie::gelGj`aH7PdVE=1G^S2
+R0
+w1699105486
+8E:/project/FPGAPango/hdmi/user/sim/top_tb.v
+FE:/project/FPGAPango/hdmi/user/sim/top_tb.v
+L0 10
+R4
+!s108 1699105547.952000
+!s107 E:/project/FPGAPango/hdmi/user/sim/top_tb.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/project/FPGAPango/hdmi/user/sim/top_tb.v|
+!i113 0
+R8
